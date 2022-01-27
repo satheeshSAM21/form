@@ -1,0 +1,22 @@
+table {
+  width: 30%;
+}
+table tr {
+  text-align: left;
+}
+.stu1 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+.detail {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+}
+.style {
+  width: 100%;
+}
